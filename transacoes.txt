@@ -1,2 +1,5 @@
 -100 comida
 200  recebimento divida
+-50  uber
+-20  sorvete
+500  presente
