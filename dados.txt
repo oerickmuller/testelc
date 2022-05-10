@@ -6,3 +6,9 @@ cidade: Garanhuns
 
 nome: Bianca
 cidade: Santos
+
+nome: Juliana
+cidade: Umuarama
+
+nome: Placido
+cidade: Domingo
