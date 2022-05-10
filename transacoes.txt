@@ -1,0 +1,2 @@
+-100 comida
+200  recebimento divida

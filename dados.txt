@@ -1,2 +1,8 @@
 nome: Erick
 cidade: Sao Bernardo
+
+nome: Jose
+cidade: Garanhuns
+
+nome: Bianca
+cidade: Santos
