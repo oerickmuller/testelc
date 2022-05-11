@@ -3,3 +3,4 @@
 -50  uber
 -20  sorvete
 500  presente
+-300 IR
